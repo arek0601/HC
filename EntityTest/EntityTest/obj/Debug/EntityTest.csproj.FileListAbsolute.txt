@@ -1,0 +1,11 @@
+C:\Users\Arek\source\repos\EntityTest\EntityTest\obj\Debug\EntityTest.csprojResolveAssemblyReference.cache
+C:\Users\Arek\source\repos\EntityTest\EntityTest\obj\Debug\EntityTest.csproj.CoreCompileInputs.cache
+C:\Users\Arek\source\repos\EntityTest\EntityTest\bin\Debug\EntityTest.exe.config
+C:\Users\Arek\source\repos\EntityTest\EntityTest\bin\Debug\EntityTest.exe
+C:\Users\Arek\source\repos\EntityTest\EntityTest\bin\Debug\EntityTest.pdb
+C:\Users\Arek\source\repos\EntityTest\EntityTest\bin\Debug\EntityFramework.dll
+C:\Users\Arek\source\repos\EntityTest\EntityTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Arek\source\repos\EntityTest\EntityTest\bin\Debug\EntityFramework.xml
+C:\Users\Arek\source\repos\EntityTest\EntityTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Arek\source\repos\EntityTest\EntityTest\obj\Debug\EntityTest.exe
+C:\Users\Arek\source\repos\EntityTest\EntityTest\obj\Debug\EntityTest.pdb
